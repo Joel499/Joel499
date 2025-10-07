@@ -1,9 +1,5 @@
 # 💫 About Me:
-I’m a **final-year BSc (Hons) Computer Science student** at **Sunway University**, specializing in **Cybersecurity**.  
-My interests lie in **threat analysis**, **intrusion detection**, **network defense**, and **machine learning applications in security**.  
-
-I enjoy building and experimenting with security-focused projects — from **Intrusion Detection Systems (IDS)** for IoT environments to **data-driven security analytics** using Python and Scikit-learn.  
-My goal is to contribute to making digital systems safer and more resilient.  
+I’m a **final-year BSc (Hons) Computer Science student** at **Sunway University**, specializing in **Cybersecurity**.  My interests lie in **threat analysis**, **intrusion detection**, **network defense**, and **machine learning applications in security**.  I enjoy building and experimenting with security-focused projects which include **Intrusion Detection Systems (IDS)** for IoT environments to **data-driven security analytics** using Python and Scikit-learn.  My goal is to contribute to making digital systems safer and more resilient.  
 
 ---
 
