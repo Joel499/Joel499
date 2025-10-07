@@ -1,27 +1,5 @@
-💻 About Me
-
-I’m a final-year BSc (Hons) Computer Science student at Sunway University, specializing in Cybersecurity. My interests lie in threat analysis, intrusion detection, network defense, and machine learning applications in security.
-
-I enjoy building and experimenting with security-focused projects — from Intrusion Detection Systems (IDS) for IoT environments to data-driven security analytics using Python and Scikit-learn. My goal is to contribute to making digital systems safer and more resilient.
-
-🧠 Current Focus
-
-Cybersecurity fundamentals and frameworks
-
-Threat modeling, vulnerability assessment, and SIEM analysis
-
-Machine learning for anomaly detection in network traffic
-
-Certification pursuits: Google Cybersecurity Professional, Microsoft Azure Fundamentals (AZ-900), and (ISC)² Certified in Cybersecurity (CC)
-
-🛠️ Tools & Technologies
-
-Python | MATLAB | Scikit-learn | Wireshark | Splunk | Nmap | Linux | Git | Jupyter | Pygame
-
-🌱 Always Learning
-
-Exploring how AI-driven security systems can enhance incident response and intrusion prevention in IoT and cloud environments.
-
+# 💫 About Me:
+💻 About Me<br><br>I’m a final-year BSc (Hons) Computer Science student at Sunway University, specializing in Cybersecurity. My interests lie in threat analysis, intrusion detection, network defense, and machine learning applications in security.<br><br>I enjoy building and experimenting with security-focused projects — from Intrusion Detection Systems (IDS) for IoT environments to data-driven security analytics using Python and Scikit-learn. My goal is to contribute to making digital systems safer and more resilient.<br><br>🧠 Current Focus<br><br>Cybersecurity fundamentals and frameworks<br><br>Threat modeling, vulnerability assessment, and SIEM analysis<br><br>Machine learning for anomaly detection in network traffic<br><br>Certification pursuits: Google Cybersecurity Professional, Microsoft Azure Fundamentals (AZ-900), and (ISC)² Certified in Cybersecurity (CC)<br><br>🛠️ Tools & Technologies<br><br>Python | MATLAB | Scikit-learn | Wireshark | Splunk | Nmap | Linux | Git | Jupyter | Pygame<br><br>🌱 Always Learning<br><br>Exploring how AI-driven security systems can enhance incident response and intrusion prevention in IoT and cloud environments.
 
 
 ## 🌐 Socials:
@@ -36,8 +14,5 @@ Exploring how AI-driven security systems can enhance incident response and intru
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Joel499&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
