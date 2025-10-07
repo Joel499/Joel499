@@ -6,7 +6,7 @@ I enjoy building and experimenting with security-focused projects — from Intru
 
 🧠 Current Focus
 
-Cybersecurity fundamentals and frameworks (MITRE ATT&CK, OWASP Top 10)
+Cybersecurity fundamentals and frameworks
 
 Threat modeling, vulnerability assessment, and SIEM analysis
 
