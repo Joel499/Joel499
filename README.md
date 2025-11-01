@@ -7,7 +7,7 @@ I’m a **final-year BSc (Hons) Computer Science student** at **Sunway Universit
 - Cybersecurity fundamentals and frameworks  
 - Threat modeling, vulnerability assessment, and SIEM analysis  
 - Machine learning for anomaly detection in network traffic  
-- Certification pursuits: Google Cybersecurity Professional, Microsoft Azure Fundamentals (AZ-900), and (ISC)² Certified in Cybersecurity (CC)  
+- Certification pursuits: Google Cybersecurity Professional Certificate, Microsoft Azure Fundamentals (AZ-900), and (ISC)² Certified in Cybersecurity (CC)  
 
 ---
 
