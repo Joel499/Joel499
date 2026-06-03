@@ -22,6 +22,7 @@ Exploring how **AI-driven security systems** can enhance **incident response and
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-nayagam/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joelnayagam2@gmail.com) 
 
 # 💻 Tech Stack:
